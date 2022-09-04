@@ -2,7 +2,7 @@ Project Name: ResqueWalk
 Description: Animal welfare is the most important issues in today's world. Helping the stray animals in case of any mishappening is our sole motive. This will be done by taking the help of NGOs.
 Technology Stack: Kotlin, XML, HTML, CSS, PHP
 Theme: Social Welfare
-Live Project url: 
+Live Project url: https://github.com/srishtigoyal02/DevHackathon
 Team Details: TechMakers
 Srishti Goyal- DCH-8151
 Parul Parbhakar- DCH-8149
